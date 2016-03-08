@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "keythereum": "^0.2.5",
+    "validator": "^5.1.0"
+  }
+}
